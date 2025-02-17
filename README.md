@@ -5,6 +5,9 @@
 
 It's designed for ease of use and provides detailed analysis without sending your data to a server.
 
+![Inicial](https://github.com/user-attachments/assets/44991da2-d519-4f3c-8436-6990f57fe7fd)
+
+
 ## Key Features
 
 - Operates entirely in your browser. Your documents never leave your computer.
